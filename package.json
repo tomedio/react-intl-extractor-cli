@@ -1,6 +1,6 @@
 {
   "name": "react-intl-extractor-cli",
-  "version": "1.0.0",
+  "version": "1.0.5",
   "description": "CLI tool to extract messages JSON for react-intl library with smart merging",
   "keywords": [
     "cli",
